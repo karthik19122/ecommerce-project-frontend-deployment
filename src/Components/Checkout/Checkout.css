@@ -1,0 +1,43 @@
+/* Checkout.css */
+.checkout {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+  }
+  
+  .checkout h1 {
+    font-size: 24px;
+    margin-bottom: 20px;
+  }
+  
+  .checkout-items {
+    margin-bottom: 20px;
+  }
+  
+  .checkout-item {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+  }
+  
+  .checkout-total {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+  
+  .checkout-total h2 {
+    font-size: 18px;
+  }
+  
+  .checkout-total button {
+    padding: 10px;
+    background-color: #3498db;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+  }
+  
+  /* Add more styles as needed */
+  
